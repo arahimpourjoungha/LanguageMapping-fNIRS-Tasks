@@ -1,0 +1,16 @@
+# session output: never commit participant data
+data/
+*.mat
+*.csv
+*_triggers_*.txt
+*_sync_*.txt
+# study stimulus lists (not distributed)
+config/stimuli_local.m
+stimuli_local/
+# Psychtoolbox licence key and local Psychtoolbox copies
+helpers/ptb_licence_key.local.txt
+*.local.txt
+Psychtoolbox/
+# editor / OS
+.DS_Store
+*.asv

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "LanguageMapping-fNIRS-Tasks: covert language task battery for fNIRS language lateralization"
+type: software
+authors:
+  - family-names: "Rahimpour Jounghani"
+    given-names: "Ali"
+version: 0.1.0
+date-released: 2026-10-25
+license: MIT
+keywords:
+  - fNIRS
+  - language lateralization
+  - Psychtoolbox
+  - block design
+  - verb generation
+  - verbal fluency
